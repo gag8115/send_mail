@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* ペジネーションの設定。 */
+.pagination .first,
+.pagination .page,
+.pagination .last {
+    display: none;
+}
+
+/* ペジネーションの設定。 */
+.pagination .prev,
+.pagination .next {
+    font-size: 20px;
+}
